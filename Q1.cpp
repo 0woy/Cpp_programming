@@ -50,7 +50,5 @@ int main() {
 		//(p+i).show();
 		//(*p++).show();
 	}
-
 	return 0;
-
 }
