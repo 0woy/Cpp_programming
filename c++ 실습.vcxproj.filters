@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\실습">
+      <UniqueIdentifier>{e81d8a61-bb67-43dc-979f-5d4151ca87a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제">
+      <UniqueIdentifier>{f5e4baed-e3f9-4bd8-84e1-c7bae39c278f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch4">
+      <UniqueIdentifier>{edd2fd86-b414-4906-8a3a-984d284a5392}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hw01_CoffeeMachine.cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="str_compare.cpp">
+      <Filter>소스 파일\실습</Filter>
+    </ClCompile>
+    <ClCompile Include="str_capacity.cpp">
+      <Filter>소스 파일\실습</Filter>
+    </ClCompile>
+    <ClCompile Include="str_len.cpp">
+      <Filter>소스 파일\실습</Filter>
+    </ClCompile>
+    <ClCompile Include="substr.cpp">
+      <Filter>소스 파일\실습</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
