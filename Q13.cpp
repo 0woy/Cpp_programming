@@ -5,6 +5,7 @@ using namespace std;
 class Histogram {
 	int histo[26];
 	string str;
+
 public:
 	Histogram(string str) {
 		this->str = str+"\n";
