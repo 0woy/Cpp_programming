@@ -63,7 +63,6 @@ MyIntStack::MyIntStack(const MyIntStack& s) {
 	for (int i = 0; i <s.tos; i++) {
 		this->p[i] = s.p[i];
 	}
-
 }
 
 int main() {
