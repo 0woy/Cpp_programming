@@ -8,6 +8,7 @@
 */
 #include<iostream>
 using namespace std;
+
 class Buffer {
 	string text;
 public:
