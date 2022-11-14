@@ -49,19 +49,15 @@ int main() {
 
 	//Q1. 가장 큰 값 구하기
 	int x[] = { 1,10,100,5,4 };
-	cout << biggest(x, 5) << endl;
-
 	double y[] = { 7.5,9.4,11.2,45.6,23.7 };
-	cout << biggest(y, 5) << endl;
-
-	string z[] = { "hello", "world", "my", "name is", "youna" };
-	cout << biggest(z, 5) << endl;
-
-	//Q2. 두 배열이 같은지 확인
-	int xx[] = { 1,10,100,5,4 };
+	int xx[] = { 10,100,1000 };
 	double xy[] = { 1.0,10.0,100.0,5.0,4.5 };
 
-	if (equalArrays(x, xx, 5))
+	cout << biggest(x, 5) << endl;
+	cout << biggest(y, 5) << endl;
+
+	//Q2. 두 배열이 같은지 확인
+	if (equalArrays(x, xy, 5))
 		cout << "Equal" << endl;
 	else cout << "NOT Equal" << endl;
 
@@ -79,5 +75,4 @@ int main() {
 	cin >> sn;
 	if (search(sn, x, 5)) cout << sn << "은 배열 내부에 있다." << endl;
 	else cout << sn << "은 배열 내부에 없다." << endl;
-
 }
