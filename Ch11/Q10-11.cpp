@@ -7,6 +7,10 @@ istream& prompt(istream& ins) {
 	return ins;
 }
 
+istream& pos(istream& ins) {
+	cout << "À§Ä¡´Â?";
+	return ins;
+}
 int main() {
 
 	string password;
@@ -19,5 +23,11 @@ int main() {
 		else
 			cout << "login fail. retry!" << endl;
 	}
+
+	int x, y;
+	cin >> pos >> x;
+	cin >> pos >> y;
+	cout << x << "," << y;
+
 	return 0;
 }
