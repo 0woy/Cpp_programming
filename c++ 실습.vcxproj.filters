@@ -16,52 +16,247 @@
     <Filter Include="소스 파일\실습">
       <UniqueIdentifier>{e81d8a61-bb67-43dc-979f-5d4151ca87a6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\과제">
-      <UniqueIdentifier>{f5e4baed-e3f9-4bd8-84e1-c7bae39c278f}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\실습\Ch4">
       <UniqueIdentifier>{edd2fd86-b414-4906-8a3a-984d284a5392}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\실습\Ch5">
+      <UniqueIdentifier>{c81b6da2-27ba-4eb9-83f9-28a6dd183d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제">
+      <UniqueIdentifier>{5789d4c1-57e3-47e2-a7d9-21fdbf4ba250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch6">
+      <UniqueIdentifier>{372abac8-55a0-4fef-ac32-e295069eae39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch7">
+      <UniqueIdentifier>{1f17d8ab-6897-4d66-9670-dd2f3ad61aa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\For Middle Term">
+      <UniqueIdentifier>{9573aa16-ff3a-42b9-9b07-aa1fb7b16fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch9">
+      <UniqueIdentifier>{614bf868-8c93-4191-9a71-c4db2c6c130d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch10">
+      <UniqueIdentifier>{66c062b2-121e-4536-aefc-33a31bf417c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch11">
+      <UniqueIdentifier>{3d52de36-3b8f-4079-859b-cd5376c4624a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습\Ch12">
+      <UniqueIdentifier>{5e0c7908-9245-4306-971f-a4f7be8841c2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw01_CoffeeMachine.cpp">
+    <ClCompile Include="Ch4\Q1.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q2.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q3.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q5.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q6.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q7.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q10.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q8.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\Q13.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\str_capacity.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\str_compare.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\str_len.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4\substr.cpp">
+      <Filter>소스 파일\실습\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="과제\hw02_Q12.cpp">
       <Filter>소스 파일\과제</Filter>
     </ClCompile>
-    <ClCompile Include="str_compare.cpp">
-      <Filter>소스 파일\실습</Filter>
+    <ClCompile Include="과제\hw02_Q10.cpp">
+      <Filter>소스 파일\과제</Filter>
     </ClCompile>
-    <ClCompile Include="str_capacity.cpp">
-      <Filter>소스 파일\실습</Filter>
+    <ClCompile Include="과제\hw02_Q8.cpp">
+      <Filter>소스 파일\과제</Filter>
     </ClCompile>
-    <ClCompile Include="str_len.cpp">
-      <Filter>소스 파일\실습</Filter>
+    <ClCompile Include="과제\hw01_CoffeeMachine.cpp">
+      <Filter>소스 파일\과제</Filter>
     </ClCompile>
-    <ClCompile Include="substr.cpp">
-      <Filter>소스 파일\실습</Filter>
+    <ClCompile Include="Ch6\Q7.cpp">
+      <Filter>소스 파일\실습\Ch6</Filter>
     </ClCompile>
-    <ClCompile Include="Q2.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch5\Ch5_Q1.cpp">
+      <Filter>소스 파일\실습\Ch5</Filter>
     </ClCompile>
-    <ClCompile Include="Q1.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch5\Ch5_Q2.cpp">
+      <Filter>소스 파일\실습\Ch5</Filter>
     </ClCompile>
-    <ClCompile Include="Q3.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch7\Q1.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
     </ClCompile>
-    <ClCompile Include="Q5.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch7\Q2.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
     </ClCompile>
-    <ClCompile Include="Q6.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch7\Q3.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
     </ClCompile>
-    <ClCompile Include="Q7.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch7\Q4.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
     </ClCompile>
-    <ClCompile Include="Q8.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch9\Q1-2.cpp">
+      <Filter>소스 파일\실습\Ch9</Filter>
     </ClCompile>
-    <ClCompile Include="Q10.cpp">
-      <Filter>소스 파일\실습\Ch4</Filter>
+    <ClCompile Include="Ch9\Q3-4.cpp">
+      <Filter>소스 파일\실습\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch4_Q13.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch4_Q14.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch5_Q6.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch5_Q12.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch6_Q5.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch6_Q6.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="For Middle Term\ch7_10.cpp">
+      <Filter>소스 파일\For Middle Term</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch9\Q5.cpp">
+      <Filter>소스 파일\실습\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch9\Q6.cpp">
+      <Filter>소스 파일\실습\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch9\Q7.cpp">
+      <Filter>소스 파일\실습\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q5-6.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q9.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q10.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q13.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q1-2.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q10-11.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q3-4.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q5.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q7.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q8.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12\Q1-4.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12\Q5.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12\Q7.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12\Q10.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12\Q13.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q1-Q4.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q7-8.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q11.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q14.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch10\Q16.cpp">
+      <Filter>소스 파일\실습\Ch10</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch7\Q5.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch7\Q10.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch7\Q12.cpp">
+      <Filter>소스 파일\실습\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_6.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_2-3.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_4.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_5.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_7-8.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_9-10.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\EX11_11.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex11_12-13.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Q12.cpp">
+      <Filter>소스 파일\실습\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex12_3.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\Ex12_4.cpp">
+      <Filter>소스 파일\실습\Ch12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
