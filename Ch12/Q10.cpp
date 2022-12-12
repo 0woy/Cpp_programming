@@ -12,8 +12,8 @@
 using namespace std;
 
 bool file_compare(const char* f1, const char* f2) {
-	ifstream fa(f1);
-	ifstream fb(f2);
+	ifstream fa(f1, ios::binary);
+	ifstream fb(f2,ios::binary);
 
 	if (!fa || !fb) {
 		cout << "열기 실패";
@@ -35,7 +35,7 @@ bool file_compare(const char* f1, const char* f2) {
 
 int main() {
 	const char* f1 = "C:\\Temp\\logo.jpg";	//const char* 형태로 넘겨줘야 하기 때문!!!
-	const char* f2 = "C:\\Temp\\haul.jpg";
+	const char* f2 = "C:\\Temp\\copy.jpg";
 
 	if (file_compare(f1, f2))
 		cout << "두 파일이 같다" << endl;
